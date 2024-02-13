@@ -4,6 +4,8 @@
 # tweet volume as the value. The dictionary must be named tweet_dict. You will need to install the library wordcloud
 # for the script to display the wordcloud. For reference, the wordclod should look exactly like the image - trends_original.png
 
+# Create a VE for the wordcloud library and make sure the VE is not pushed to your GitHub repo.
+
 
 # nyc_trends is an object imported from the file nyc_trends.py
 from nyc_trends import nyc_trends
